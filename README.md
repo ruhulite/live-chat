@@ -1,2 +1,2 @@
-# live-chat-react-graphql
+# live-chat
 Create a Chat app using React and Apollo Graphql
